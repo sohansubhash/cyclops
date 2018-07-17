@@ -12,4 +12,5 @@ export PS1="\[\033[38;5;9m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\] \w \\$ \[$(tput 
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
-alias config='/usr/bin/git --git-dir=/folk/ssubhash/.cyclops/ --work-tree=/folk/ssubhash'
+
+alias config='/usr/bin/git --git-dir=$HOME/.cyclops/ --work-tree=$HOME'

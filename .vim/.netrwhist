@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/folk/ssubhash/p2'
+let g:netrw_dirhist_2='/folk/ssubhash/p5/flask/bin'
+let g:netrw_dirhist_3='/folk/ssubhash/sparts-docs/setup'
+let g:netrw_dirhist_4='/folk/ssubhash/sparts-docs/cli'

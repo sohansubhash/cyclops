@@ -1,7 +1,6 @@
 "ui config
 set number "line numbers
 set showcmd "show command in bottom bar
-set cursorline "highlight current line
 filetype indent on      " load filetype-specific indent files
 filetype plugin on      " load filetype-specific indent files
 filetype indent on      " load filetype-specific indent files

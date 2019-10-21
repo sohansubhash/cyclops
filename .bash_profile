@@ -13,5 +13,5 @@ export PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
 #rust
 export PATH="$HOME/.cargo/bin:$PATH"
 #go
-export PATH="/usr/local/go:$PATH"
+export PATH="/usr/local/go/bin:$PATH"
 export GOPATH="$HOME/Developer/go"
